@@ -1,0 +1,11 @@
+# 7Bot Python API WebSocket Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core WebSocket client library
+websockets>=11.0.0
+
+# Serial communication (for serial protocol support)
+pyserial>=3.5
+
+# Additional useful libraries for development
+asyncio-mqtt>=0.11.0  # Optional: for MQTT integration 

@@ -40,7 +40,7 @@ The simple and easy-to-use approach of the 7Bot robotic arm, with flexible and d
 | 3   | Function Button Usage  |   Robotic arm function button motion settings   | [Demo Video](https://www.bilibili.com/video/BV1W7bvzfE1Z/) |
 | 4   | Blockly Graphical Programming Software     |   Robotic arm graphical programming, popular science education software  | [Demo Video](https://www.bilibili.com/video/BV1W7bvzfEHT/)、[Software (Web Version)](../APP/Blockly-7Bot.html)  |
 | 5   | GUI Visualization Operation Software     |   Robotic arm visualization control and operation software | [Usage Video V2](https://www.bilibili.com/video/BV1sjbvz8E6A/?vd_source=b7bafa4380f12b24bdd421cf737fe045)、[Usage Video V1](https://www.bilibili.com/video/BV1sjbvz8E4P/?vd_source=b7bafa4380f12b24bdd421cf737fe045)、[Case Video](https://www.bilibili.com/video/BV1sjbvz8Exd/?vd_source=b7bafa4380f12b24bdd421cf737fe045)、[Software (Web Version)](../APP/GUI-7Bot.html)  |
-| 6   | Python API   |   Robotic arm Python programming development interface and cases |[Python Case Instructions](../Python_examples/Python_examples.md)、[Python API Documentation (New)](../Python_examples/README_PythonAPI.md) 、[Python Programming Development Guide (Old PDF Version)](7Bot机械臂编程开发指南（Python版）.pdf) |
+| 6   | Python API   |   Robotic arm Python programming development interface and cases |[Python Examples Instructions](../Python_examples/Python_examples_En.md)、[Python API Documentation (New)](../Python_examples/README_PythonAPI_En.md) 、[Python Programming Development Guide (Old PDF Version)](7Bot机械臂编程开发指南（Python版）.pdf) |
 
 
 <br>
